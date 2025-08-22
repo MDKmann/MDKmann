@@ -7,7 +7,7 @@ Frontend Software Engineer
 Front-end developer, mechanical keyboard aficionado, and creativity junkie. Always learning, coding, and always just one keystroke from brilliance.
 
 *   🌍  I'm based in Nebraska.
-*   🧠  I'm currently adding NextJS and TypeScript to my toolbox.
+*   🧠  I'm currently adding C# and SQL to my toolbox.
 *   🤝  I'm open to collaborating on open source projects, innovative features, creative problem solving.
 *   ⚡  Tony Stark is my second cousin twice removed, don't tell anyone though. 🤫
 --------------------------
